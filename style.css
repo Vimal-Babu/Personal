@@ -728,7 +728,7 @@ a.work:hover,a.hire {
 
 /*-- blog -*/
 .blog {
-    background: url(blog1.webp) no-repeat 0px 0px;
+    background: url(blog1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -739,7 +739,7 @@ a.work:hover,a.hire {
 	color: #fff;
 }
 .blog h3.heading:after,.services h3.heading:after{
-	background: #fff;
+	background: #000000;
 }
 .blog-grids,.project-grids {
     margin-top: 5em; 
@@ -841,7 +841,7 @@ h4.left-grid-blog {
     outline: none;
     width: 83%;
     padding: .9em 1.3em;
-     font-size: 15px;
+    font-size: 15px;
     letter-spacing: 1px;
     color: #888;
     border: none;
